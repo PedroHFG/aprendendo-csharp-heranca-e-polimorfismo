@@ -4,7 +4,7 @@ Este repositório contém exemplos e explicações sobre conceitos de programaç
 
 ## Tópicos
 
-- [Herança e Polimorfismo](./Herança-e-Polimorfismo/README.md)
+- [Herança](./1-Herança/README.md)
 - [Encapsulamento](./Encapsulamento/README.md)
 
 Sinta-se à vontade para explorar os diretórios e consultar os exemplos.
